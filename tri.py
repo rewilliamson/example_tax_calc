@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 26 20:24:47 2022
-
-@author: rewilliamson
-"""
-
 
 income = float(input('Enter income: ')) # Take user input
 
